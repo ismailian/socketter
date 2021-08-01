@@ -1,5 +1,4 @@
-# socketter
-## Socket Management Library
+# Socketter (Socket Management Library)
 
 ##### This library will help you make use of sockets without the hustle of creating and handling all the work from zero, \njust instantiate the object and use it.
 
