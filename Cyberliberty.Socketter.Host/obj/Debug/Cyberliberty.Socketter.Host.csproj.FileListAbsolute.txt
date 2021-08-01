@@ -1,0 +1,4 @@
+C:\Users\Ismail\Desktop\Cyberliberty.Socketter\Cyberliberty.Socketter.Host\bin\Debug\Cyberliberty.Socketter.Host.dll
+C:\Users\Ismail\Desktop\Cyberliberty.Socketter\Cyberliberty.Socketter.Host\bin\Debug\Cyberliberty.Socketter.Host.pdb
+C:\Users\Ismail\Desktop\Cyberliberty.Socketter\Cyberliberty.Socketter.Host\obj\Debug\Cyberliberty.Socketter.Host.dll
+C:\Users\Ismail\Desktop\Cyberliberty.Socketter\Cyberliberty.Socketter.Host\obj\Debug\Cyberliberty.Socketter.Host.pdb

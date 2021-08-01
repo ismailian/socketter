@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberliberty.Socketter.Host", "Cyberliberty.Socketter.Host\Cyberliberty.Socketter.Host.csproj", "{B1F5FC36-137E-41D9-B308-714F2198AFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberliberty.Socketter.Guest", "Cyberliberty.Socketter.Guest\Cyberliberty.Socketter.Guest.csproj", "{9AE4B64F-0383-4DA3-B6BA-67F801684A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F5FC36-137E-41D9-B308-714F2198AFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F5FC36-137E-41D9-B308-714F2198AFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F5FC36-137E-41D9-B308-714F2198AFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F5FC36-137E-41D9-B308-714F2198AFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8998578A-54B8-4B6E-9125-790A4ED23CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8998578A-54B8-4B6E-9125-790A4ED23CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8998578A-54B8-4B6E-9125-790A4ED23CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8998578A-54B8-4B6E-9125-790A4ED23CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE4B64F-0383-4DA3-B6BA-67F801684A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE4B64F-0383-4DA3-B6BA-67F801684A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE4B64F-0383-4DA3-B6BA-67F801684A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE4B64F-0383-4DA3-B6BA-67F801684A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
