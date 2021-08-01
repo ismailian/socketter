@@ -6,7 +6,10 @@ just instantiate the object and use it.
 
 # Instantiating Host
 
-```
+```c#
+
+using Cyberliberty.Socketter;
+
 Host host = new Host()
 {
     IPAddress = "127.0.0.1",
@@ -27,7 +30,10 @@ host.Start();
 
 # Instantiating Guest
 
-```
+```c#
+
+using Cyberliberty.Socketter;
+
 Guest guest = new Guest()
 {
     Hostname = "127.0.0.1",
